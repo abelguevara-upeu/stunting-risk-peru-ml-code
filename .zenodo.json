@@ -1,0 +1,12 @@
+{
+  "title": "Code for childhood stunting risk prediction in Peru (ENDES 2007-2025)",
+  "description": "Code and web application to train, evaluate and use a LightGBM model that prioritizes children under five at risk of stunting in Peru. For prioritization, not diagnosis. Survey data are not included.",
+  "upload_type": "software",
+  "license": "bsd-3-clause",
+  "creators": [
+    {"name": "Guevara Huasco, Abel Is-Boset", "affiliation": "Universidad Peruana Unión"},
+    {"name": "Vallejos Cotrina, Zulin Pamela", "affiliation": "Universidad Peruana Unión"},
+    {"name": "Vergara Rojas, Verónica Lisseth", "affiliation": "Universidad Peruana Unión"}
+  ],
+  "keywords": ["stunting", "machine learning", "LightGBM", "Peru"]
+}
