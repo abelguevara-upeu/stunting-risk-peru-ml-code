@@ -1,0 +1,8 @@
+streamlit>=1.50.0
+pandas
+numpy
+lightgbm
+scikit-learn
+joblib
+plotly>=5.24
+openpyxl
